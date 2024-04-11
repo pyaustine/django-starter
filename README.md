@@ -1,7 +1,5 @@
 # Django Project Starter
 
-https://github.com/pyaustine/django-starter.git
-
 [![License](https://img.shields.io/github/license/pyaustine/django-starter)](LICENSE)
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/pyaustine/django-starter)
 ![GitHub last commit](https://img.shields.io/github/last-commit/pyaustine/django-starter)
