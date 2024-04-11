@@ -46,10 +46,10 @@ setup(
     python_requires='>=3.6',
     entry_points={
         'console_scripts': [
-            'weather-cli=start_django.cli:main',
+            'start_django = start_django.main:main',
         ],
     },
     install_requires=[
-        'requests',
+        'Django',
     ],
 )
