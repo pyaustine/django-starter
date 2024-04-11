@@ -39,8 +39,8 @@ The package includes sample template (`sample_template.html`), CSS (`sample_styl
 
 ## Contributing
 
-Contributions to `start_django` are welcome! If you encounter any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request on the [GitHub repository](https://github.com/pyaustine/start_django).
+Contributions to `start_django` are welcome! If you encounter any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request on the [GitHub repository](https://github.com/pyaustine/start_django). See the [Code of conduct](CODE_OF_CONDUCT.md) for more details.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.txt](LICENSE.txt) file for details.
+This project is licensed under the GPL-3.0 License - see the [LICENSE](LICENSE) file for details.
